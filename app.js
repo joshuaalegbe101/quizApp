@@ -34,5 +34,4 @@ function runQuiz (array) {
     console.log(`Great Job! You answered ${score} out of ${array.length} questions correctly.`);
 }
 
-
 runQuiz(quiz);
